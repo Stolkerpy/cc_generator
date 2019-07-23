@@ -1,1 +1,1 @@
-# cc_generator
+kopyalarken .o ı kopyalamayın
